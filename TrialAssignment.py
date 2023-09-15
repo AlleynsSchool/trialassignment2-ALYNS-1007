@@ -6,6 +6,7 @@ def trialQuestion():
 
     answer = "Test assignment answer" #change this line as per the instructions
 
+
     return answer
 
 
